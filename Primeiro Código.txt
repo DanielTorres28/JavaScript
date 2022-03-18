@@ -1,0 +1,9 @@
+<DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+	<title>Meu Projeto</title>
+
+</head>
+<body>
+</body>
+</html>
